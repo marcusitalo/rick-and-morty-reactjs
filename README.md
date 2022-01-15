@@ -1,13 +1,13 @@
-![](https://github.com/marcusitalo/rick-and-morty-reactjs/blob/main/src/resources/images/logo.png?raw=true)
+![](https://github.com/marcusitalo/rick-and-morty-reactjs/blob/master/src/resources/images/logo.png?raw=true)
 
 ------------
-![](https://github.com/marcusitalo/rick-and-morty-reactjs/blob/main/public/screenshot/1.png?raw=true)
+![](https://github.com/marcusitalo/rick-and-morty-reactjs/blob/master/public/screenshot/1.png?raw=true)
 
 ------------
-![](https://github.com/marcusitalo/rick-and-morty-reactjs/blob/main/public/screenshot/2.png?raw=true)
+![](https://github.com/marcusitalo/rick-and-morty-reactjs/blob/master/public/screenshot/2.png?raw=true)
 
 ------------
-![](https://github.com/marcusitalo/rick-and-morty-reactjs/blob/main/public/screenshot/3.png?raw=true)
+![](https://github.com/marcusitalo/rick-and-morty-reactjs/blob/master/public/screenshot/3.png?raw=true)
 
 ------------
 This is a web-based Rick and Morty built for educational purposes, in fact this project will help me learn the React.js framework quickly. I used the Rick and Morty public api.
